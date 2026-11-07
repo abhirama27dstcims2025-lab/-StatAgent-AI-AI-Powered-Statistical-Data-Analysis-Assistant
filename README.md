@@ -163,3 +163,10 @@ DST-CIMS, Banaras Hindu University (BHU)
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository and share your feedback!
+
+## 🔗 Project Links
+
+- **Live Application:** [Try StatAgent AI](YOUR_STREAMLIT_LINK)
+
+
+
